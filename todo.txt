@@ -1,0 +1,48 @@
+ToDo:
+
+Website
+    - Complete Resume putting here
+    - Write about linguistics
+        - https://careers.google.com/jobs/results/79612865608065734-computational-linguist-google-assistant-natural-language-understanding/?company=Google&company=Google%20Fiber&company=YouTube&employment_type=FULL_TIME&hl=en_US&jlo=en_US&location=Mountain%20View,%20CA,%20USA&q=Ml&sort_by=relevance
+        - copy stuff from here
+    - write about RL work
+    - copy resume
+    - improve resume
+    - add link to the website
+    - add RL
+    - improve thesis
+    - add medical and information extraction side
+    - ask sanuj
+    -check others website
+
+
+
+Resume
+
+    - http://nitish.site/resume-generator/
+    - Ask other people to review
+    -
+
+- Write from linkedin
+
+- Grammarly
+
+- Send the author email
+
+
+Later
+
+Add new tab in Website
+
+
+
+
+
+Last Thing
+
+ Dark Mode
+
+
+Blog Things
+ - Machine Learning just causes clustering, big becomes bigger
+ - Write all the blogs in your google drive and put them here,
