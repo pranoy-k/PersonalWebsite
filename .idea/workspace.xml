@@ -2,123 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a04c2254-9949-4f52-8f1c-2f7e0f9031aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/todo.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/3DSP_siggraphAsia2013.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Anderson2016.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ArbelaezCVPR2014.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/B3DO_ICCV_2011.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BarronCVPR2015.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BarronCVPR2019.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BarronCVPR2019_reviews.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BarronICCV2013.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BarronICCV2015.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BarronMalikCVPR2011.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BarronMalikCVPR2012.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BarronMalikCVPR2013.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BarronMalikECCV2012.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BarronMalikTPAMI2015.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BarronMalikTPAMI2015B.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BarronPRL2009.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BarronPooleECCV2016.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BarronPooleECCV2016_reviews.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BarronTR2010.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BarronTsaiCVPR2017.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BrooksBarronCVPR2019.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/BrooksCVPR2019.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Chen2016.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Diverdi2016.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/GharbiSIGGRAPH2017.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Hasinoff2016.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/JonBarron-CV.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/JonBarron-bio.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/KarschCVPR2013.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Mildenhall2018.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/PontTusetTPAMI2017.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Shelhamer2015.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Srinivasan2018.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/SrinivasanCVPR2019.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Valentin2018.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Wadhwa2018.bib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ieee_fullfirstname.bst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/why_did_this_paper_come_out_in_2015.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ECCV2012_still.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Estee.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Estee.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Estee_160.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Estee_160_prodB2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Jitendra_faceZ_160.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Jitendra_face_160.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Jitendra_face_big.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/JonBarron.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/JonBarron_circle.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/PABMM2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/PABMM2015.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/SIRFS.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/SceneSIRFS-still.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/SceneSIRFS-still.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/SceneSIRFS.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Shelhamer2015.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/aperture_after.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/aperture_before.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bd_promo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/bd_promo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ccc_after.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ccc_before.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clean_promo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clean_promo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cs188.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cvf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/darkflash_after.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/darkflash_before.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/deepburst_after.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/deepburst_before.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/diverdi_after.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/diverdi_before.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/dpzlearn_after.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/dpzlearn_before.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fast_texture.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fast_texture.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ffcc_after.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ffcc_before.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/friendly_after.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/friendly_before.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/hdrnet_after.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/hdrnet_before.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/hdrp_after.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/hdrp_before.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jump_anim.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/jump_still.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/lincoln_highres.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/lincoln_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/loss.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/loss_after.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/loss_before.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/motionblur_after.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/motionblur_before.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/motionstereo_after.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/motionstereo_before.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/mpi_after.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/mpi_before.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pacman.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/pacman.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/picture.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/picture_square.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/porlight_after.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/porlight_before.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portrait_after.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portrait_after.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portrait_before.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/portrait_before.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/prl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/prl.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/safs.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/safs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/safs_160.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/seal_icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/unprocessing_after.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/unprocessing_after2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/unprocessing_before.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/unprocessing_before2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -145,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            <state relative-caret-position="220">
+              <caret line="48" column="47" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -225,6 +109,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -266,15 +151,16 @@
       <workItem from="1563506554123" duration="1661000" />
       <workItem from="1563648368338" duration="2005000" />
       <workItem from="1563665659841" duration="1480000" />
-      <workItem from="1563675104246" duration="886000" />
+      <workItem from="1563675104246" duration="1397000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8618000" />
+    <option name="totallyTimeSpent" value="9129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="36" y="23" width="1404" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.106461085" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -319,8 +205,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="220">
+          <caret line="48" column="47" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#tr#0;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
