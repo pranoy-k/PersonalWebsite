@@ -1,5 +1,9 @@
 ToDo:
 
+Add all projects
+
+Add links to github and LinkedIn
+
 Website
     - Complete Resume putting here
     - Write about linguistics
@@ -14,14 +18,47 @@ Website
     - add medical and information extraction side
     - ask sanuj
     -check others website
+    - team members for cse dashboard
 
+
+_____________________________________________________________________________________________________________________________________
+Experience
+
+• Artificial Intelligence Research Intern, Philips Research HealthTech, Cambridge
+ May 18 - August 18
+ - Created a new dataset manually annotating Radiology Reports measuring inter-annotator agree on various degrees
+ - Developed and Tested Baseline models for NER and Relation Extraction using CRF, LSTM, LSTM-CRF
+ - Currently working on joint modeling developing End-to-End Models based on Tree LSTM for publishing in NAACL 2019
+
+• Research Assistant, NLU and Deep Learning, Texas A&M University
+ Sept 17 - April 19
+ - Developing unsupervised and semi-supervised neural architectures for joint relation extraction and NER targeting NAACL 2019
+ - Modeled and Tested Sequential Architectures for Biomedical and Sensor Time Series Data
+ - Improved performance of XGBoost models on ICU readmission prediction by incorporating text-based features from clinical notes
+
+• Teaching Assistant, Sr Capstone Design, Texas A&M University
+ Jan 18-May 18
+ - Responsible for supervising the various projects Undergraduates design and develop
+
+• Student Assistant, Natural Language Processing, Texas A&M University
+ Sept 17-Dec 17
+
+• Software Developer, Qualcomm(India)
+ Jun 15-Jun 17
+ - Implemented real-time features in various Wi-Fi modules and solved customer critical issues to develop requirements for OEMs.
+Provided software support OEM’s product launches while in China
+
+• Software Internship, Qualcomm(India)
+ May 14- Jul 14
+ - Enhanced and developed software solution for Samsung Group Play application
+_____________________________________________________________________________________________________________________________________
 
 
 Resume
 
     - http://nitish.site/resume-generator/
     - Ask other people to review
-    -
+    - https://web.iiit.ac.in/~kushal.singh/resume.pdf
 
 - Write from linkedin
 
@@ -40,9 +77,20 @@ Add new tab in Website
 
 Last Thing
 
- Dark Mode
+Theme
+    - Dark Mode
+    - Background picture, anything
 
+Later things
+    - Talk about Deep Learning in the department
 
 Blog Things
  - Machine Learning just causes clustering, big becomes bigger
  - Write all the blogs in your google drive and put them here,
+
+
+Write about the courses you are doing
+  - Sergie Levine
+
+
+Qualstar Qualcomm
