@@ -71,7 +71,7 @@ Later
 
 Add new tab in Website
 
-
+Add the Github profile photo
 
 
 
